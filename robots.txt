@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meechohque.blaqrob.com/sitemap.xml
